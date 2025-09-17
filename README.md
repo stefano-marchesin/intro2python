@@ -5,7 +5,7 @@ Questo repository contiene i notebook per il corso "Introduzione alla Programmaz
 ## Notebook
 
 - `01_Python_Basics.ipynb` — Basi di Python (Parte 1)
-- `02_Python_Basics.ipynb` — Basi di Python (Parte 2)
+- `02_Python_Basics-2.ipynb` — Basi di Python (Parte 2)
 
 ## Come usare i Notebook tramite Google Colab
 
