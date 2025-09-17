@@ -10,7 +10,7 @@ Questo repository contiene i notebook per il corso "Introduzione alla Programmaz
 
 Clicca su uno dei seguenti link per aprire il notebook in Colab:
 
-- [Apri `01_introduzione.ipynb` in Colab](https://colab.research.google.com/github/stefano-marchesin/intro2python/blob/main/01_Python_Basics.ipynb)  
+- [Apri `01_Python_Basics.ipynb` in Colab](https://colab.research.google.com/github/stefano-marchesin/intro2python/blob/main/01_Python_Basics.ipynb)  
 
 ---
 
