@@ -7,6 +7,7 @@ Questo repository contiene i notebook per il corso "Introduzione alla Programmaz
 - `01_Python_Basics.ipynb` — Basi di Python (Parte 1)
 - `02_Python_Basics-2.ipynb` — Basi di Python (Parte 2)
 - `03_Python_Conditionals.ipynb` — Condizionali Python e input utente
+- `04_Python_Loops.ipynb` - Cicli Python
 
 ## Come usare i Notebook tramite Google Colab
 
@@ -15,6 +16,7 @@ Clicca su uno dei seguenti link per aprire il notebook in Colab:
 - [Apri `01_Python_Basics.ipynb` in Colab](https://colab.research.google.com/github/stefano-marchesin/intro2python/blob/main/01_Python_Basics.ipynb)
 - [Apri `02_Python_Basics-2.ipynb` in Colab](https://colab.research.google.com/github/stefano-marchesin/intro2python/blob/main/02_Python_Basics-2.ipynb)
 - [Apri `03_Python_Conditionals.ipynb` in Colab](https://colab.research.google.com/github/stefano-marchesin/intro2python/blob/main/03_Python_Conditionals.ipynb)
+- [Apri `04_Python_Loops.ipynb` in Colab](https://colab.research.google.com/github/stefano-marchesin/intro2python/blob/main/04_Python_Loops.ipynb)
 
 ---
 
