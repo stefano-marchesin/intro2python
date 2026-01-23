@@ -28,7 +28,3 @@ Clicca su uno dei seguenti link per aprire il notebook in Colab:
 2. Se non hai Google Drive, lavora nella sessione temporanea.  
 3. Salva il tuo lavoro alla fine con *File → Scarica .ipynb*.  
 4. Se hai Google Drive, fai *File → Salva una copia in Drive* per avere salvataggio cloud.
-
-# Sondaggio Liceo Fermi
-https://forms.gle/MB4x4DB97VddXU8A
-
